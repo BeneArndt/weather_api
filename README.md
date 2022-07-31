@@ -2,7 +2,7 @@
 
 ### How does it work?
 
-Fetches ur ip from https://ipinfo.io/ and using this ip ito fetch weather information from https://openweathermap.org/api
+Fetches ur ip from https://ipinfo.io/ and using this ip to fetch weather information from https://openweathermap.org/api
 
 # Display Weather on Terminal
 
