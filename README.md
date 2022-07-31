@@ -1,6 +1,6 @@
 # weather_api
 
-# How does it work?
+### How does it work?
 
 1.fetches ur ip from https://ipinfo.io/
 2.by using this ip it fetches weather information from https://openweathermap.org/api
